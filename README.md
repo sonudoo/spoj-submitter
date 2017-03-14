@@ -1,4 +1,4 @@
-# spoj-submitter
+# spoj-tools
 
 Requirement: Python 3.2 or higher
 
